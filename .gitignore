@@ -1,0 +1,7 @@
+config.env
+.terraform
+variables.tf
+anotations.txt
+deploy_package.zip
+__pycache__/
+venv/
