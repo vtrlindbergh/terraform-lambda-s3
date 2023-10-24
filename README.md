@@ -28,7 +28,7 @@ After that, you can run the "zip_code.sh" bash script. This will create a .zip f
 On the code root folder (where main_app.py is located):
 
 ```sh
-bash zip_code.zip
+bash zip_code.sh
 ```
 
 ## Usage example
